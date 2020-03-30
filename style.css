@@ -1,0 +1,51 @@
+.body-style
+{
+    background-color:purple;
+}
+
+.btn-action
+{
+    background-color:slateblue;
+}
+
+.btn-action:hover
+{
+    background-color:lawngreen;
+}
+
+.btn-answer
+{
+    background-color:green;
+}
+
+.btn-start
+{
+    background-color:green;
+}
+.btn-start:hover
+{
+    background-color:lawngreen;
+}
+.calc
+{
+    height:95vh;
+    width:96vw;
+    padding:.05%;
+}
+
+.des-title
+{
+    background-color:gold;
+    display:flex;
+    justify-content:center;
+    font-size:1.5rem;
+
+}
+
+.your-calc
+{
+    display:flex;
+    justify-content:left;
+    color:gold;
+    font-size:1.2rem;
+}
